@@ -4,3 +4,4 @@ Language: Javascript
 
 
 Day 1: Reverse Integer - Easy 
+Day 2: Palindrome Number
