@@ -9,3 +9,4 @@ Day 3: Median of two sorted arrays
 Day 4: 
 Day 5: Longest Substring Without Repeating Characters
 Day 6: Maximum Subarray
+Day 7: Missing Number
